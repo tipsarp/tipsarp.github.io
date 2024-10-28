@@ -1,9 +1,61 @@
 ---
-title: "About"
+title: "Tipsarp `Minnie` Kittisiam"
+about:
+  template: trestles
+  image: "images/about-minnie.png"
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: "https://www.linkedin.com/in/tipsarpk/"
+    - icon: github
+      text: GitHub
+      url: "https://github.com/minnie-kitt"
+    - icon: email
+      text: Email
+      url: "mailto:tkittisi@uoguelph.ca"
 ---
 
-About this site
+## Bio
 
-```{r}
-1 + 1
-```
+Tipsarp (Minnie) Kittisiam is a Ph.D. Candidate in Epidemiology at the Department of Population Medicine, Ontario Veterinary College, University of Guelph, Canada. She received her D.V.M. and M.Sc. (Veterinary Epidemiology) from Kasetsart University, Thailand. Her experiences during clinical rotations, as well as those of her peers in clinical practice, inspired her to study mental health in veterinarians. She is currently part of a joint research project between the Atlantic Veterinary College and the Ontario Veterinary College that aims to support the positive well-being of veterinarians who are transitioning from graduation into practice.
+
+## Education
+
+**Doctor of Philosophy (Ph.D.) in Epidemiology**
+
+September 2021 - April 2025 (Expected)
+
+*Department of Population Medicine, Ontario Veterinary College, University of Guelph*
+
+Guelph, ON, Canada
+
+**Masters of Science (M.Sc.) in Veterinary Epidemiology**
+
+2019 - 2022
+
+*Faculty of Veterinary Medicine, Kasetsart University Kampaeng Saen Campus*
+
+Nakhon Pathom, Thailand
+
+**Doctor of Veterinary Medicine (D.V.M.)**
+
+2013 - 2019
+
+*Faculty of Veterinary Medicine, Kasetsart University*
+
+Bangkok, Thailand
+
+## Experience
+
+**University of Guelph**
+
+*Doctoral Researcher and Teaching Assistant*
+
+September 2021 - Present
+
+**“Rabies-Free Animal Project” Kasetsart University**
+
+*Research Assistant*
+
+July 2019 - November 2021
