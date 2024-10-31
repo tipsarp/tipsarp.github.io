@@ -18,7 +18,7 @@ website:
         - href: research.qmd
           text: Current Research
         - href: publications.qmd
-          text: Past Publications
+          text: Publications
 
 format:
   html:
