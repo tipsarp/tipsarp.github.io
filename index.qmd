@@ -14,10 +14,12 @@ about:
     - icon: email
       text: Email
       url: "mailto:tkittisi@uoguelph.ca"
-    - text: AJ Research
+    - text: AJ Research Lab
       url: "https://ajresearch.ca"
     - text: ORCID
-      url: "https://google.com"
+      url: "https://orcid.org/0000-0001-9091-5906"
+    - text: Google Scholar
+      url: "https://scholar.google.com/citations?user=JDq59c8AAAAJ&hl=en"
 ---
 
 ## Bio
