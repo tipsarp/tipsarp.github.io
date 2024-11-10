@@ -1,5 +1,144 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
+toc: true
 ---
 
-*Coming soon...*
+## Education
+
+**Doctor of Philosophy in Epidemiology**
+
+*Sep 2021 – Apr 2025 (expected)*
+
+Ontario Veterinary College, University of Guelph, Guelph, ON, Canada
+
+Thesis: Supporting the promotion of positive psychology in early-career veterinarians
+
+Supervisor: Dr. Andria Jones (D.V.M., Ph.D.)
+
+**Master of Science in Veterinary Epidemiology**
+
+*2019 - 2021*
+
+Kasetsart University Kampaeng Saen Campus, Nakhon Pathom, Thailand
+
+Thesis: Social Network Analysis of Free-Roaming Dogs in Kasetsart University
+
+Supervisor: Dr. Waraphon Phimpraphai (D.V.M., Ph.D.)
+
+**Doctor of Veterinary Medicine**
+
+*2013 - 2019*
+
+Faculty of Veterinary Medicine, Kasetsart University, Bangkok, Thailand
+
+## Experience
+
+**Doctoral Researcher**
+
+*2021 – Present*
+
+PI: Dr. Caroline Ritter, University of Prince Edward Island, PE, Canada \<carolineritter\@upei.ca\>
+
+**Graduate Teaching Assistant, “Art of Veterinary Medicine I”**
+
+*Sep - Dec 2024*
+
+Supervisor: Basem Gohar, University of Guelph, ON, Canada \<bgohar\@uoguelph.ca\>
+
+**Graduate Teaching Assistant, “Epidemiology I”**
+
+*Sep - Dec 2024*
+
+Supervisor: Kelsey Spence, University of Guelph, ON, Canada \<kspenc04\@uoguelph.ca\>
+
+**Graduate Teaching Assistant, “Applied Clinical Research”**
+
+*Jan - Apr 2024*
+
+Supervisor: Keana Shahin, University of Guelph, ON, Canada \<kshahinm\@uoguelph.ca\>
+
+**Research Assistant, “Rabies-Free Animal Project”**
+
+*2019 - 2020*
+
+PI: Dr. Waraphon Phimpraphai, Kasetsart University, Thailand \<fvetwrp\@ku.ac.th\>
+
+## Training and Certification
+
+**Introduction to practical disease modeling**
+
+*Nov 2024*
+
+17th International Symposium on Veterinary Epidemiology and Economics
+
+Sydney, NSW, Australia
+
+**Inclusive Teaching Workshop**
+
+*Mar 2024*
+
+Graduate Teaching Community, Office of Teaching and Learning (OTL),
+
+University of Guelph, Guelph, ON, Canada
+
+**safeTALK**
+
+*Oct 2023*
+
+Wellness Education & Promotion Centre, Student Wellness
+
+University of Guelph, Guelph, ON, Canada
+
+**Mental Health First Aid Standard (Blended) (9–hour)**
+
+*Oct 2022*
+
+Mental Health Commission of Canada
+
+**Course on Research Ethics (TCPS 2: CORE) Certificate**
+
+*Oct 2021*
+
+Panel on Research Ethics, Government of Canada
+
+**Contact Network Epidemiology**
+
+*Jul 2021*
+
+13th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
+
+University of Washington, Seattle, WA, USA
+
+**Spatial Statistics in Epidemiology and Public Health**
+
+*Jul 2021*
+
+13th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
+
+University of Washington, Seattle, WA, USA
+
+## Awards and scholarships
+
+**17th International Symposium on Veterinary Epidemiology and Economics (ISVEE) Bursary**
+
+*2024*
+
+17th International Symposium on Veterinary Epidemiology and Economics (ISVEE), Sydney, NSW, Australia
+
+**Canada-ASEAN Scholarships and Educational Exchanges for Development (SEED)**
+
+*2020 - 2021*
+
+Global Affairs Canada
+
+**Best Oral Presentation (Student)**
+
+*Sep 2019*
+
+Kasetsart University Veterinary International Conference 2019 (KUVIC 2019), Thailand
+
+**Student American Veterinary Medical Association (SAVMA) Symposium Student Travel Grant**
+
+*Mar 2018*
+
+Student American Veterinary Medical Association (SAVMA), PA, USA
