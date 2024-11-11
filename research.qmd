@@ -1,3 +1,7 @@
-# Veterinarian Mental Health
+---
+title: "Current Research"
+---
+
+## Veterinarian Mental Health
 
 [“A Multitude of Emotions” in Veterinary Work: A Mixed-Methods Analysis of Emotional Intelligence and Experiences in Early-Career Veterinarians Presentation at ISVEE17](2024nov-isvee.qmd)
