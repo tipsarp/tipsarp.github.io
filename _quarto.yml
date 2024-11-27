@@ -18,10 +18,8 @@ website:
           text: CV
         - text: "Research"
           menu: 
-            - href: research.qmd
-              text: Current Research
-            - href: publications.qmd
-              text: Publications        
+            - href: vet_mh.qmd
+              text: Veterinarian Mental Health
 
 format:
   html:
