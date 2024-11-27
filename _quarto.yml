@@ -20,6 +20,12 @@ website:
           menu: 
             - href: vet_mh.qmd
               text: Veterinarian Mental Health
+      right: 
+        - icon: linkedin
+          href: https://www.linkedin.com/in/tipsarpk/
+        - icon: envelope
+          href: mailto:tkittisi@uoguelph.ca
+        
 
 format:
   html:

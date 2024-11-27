@@ -11,14 +11,17 @@ about:
     - icon: github
       text: GitHub
       url: "https://github.com/minnie-kitt"
-    - icon: email
+    - icon: envelope
       text: Email
       url: "mailto:tkittisi@uoguelph.ca"
-    - text: AJ Research Lab
+    - icon: globe
+      text: AJ Research Lab
       url: "https://ajresearch.ca"
-    - text: ORCID
+    - icon: 0-circle-fill
+      text: ORCID
       url: "https://orcid.org/0000-0001-9091-5906"
-    - text: Google Scholar
+    - icon: mortarboard-fill
+      text: Google Scholar
       url: "https://scholar.google.com/citations?user=JDq59c8AAAAJ&hl=en"
 ---
 
