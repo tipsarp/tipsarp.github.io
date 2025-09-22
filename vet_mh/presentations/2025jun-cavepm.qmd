@@ -1,27 +1,22 @@
 ---
-title: "How can Emotional Intelligence benefit veterinarians? A Mixed-Methods Analysis (Poster)"
-format: html
+title: "How can Emotional Intelligence benefit veterinarians? "
+subtitle: "A Mixed-Methods Analysis"
+date: 2025-06-10
+categories: 
+  - "Poster"
 ---
+
+> ## Note
+>
+> This poster presents the combined results from chapters 3 & 4 of my doctoral thesis, [Explorations of Emotional Intelligence and Thriving Well-being in Early-career Veterinarians](https://hdl.handle.net/10214/29012).
+>
+> Chapter 3 of my thesis has also been published as the article ["**A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"**](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5599)
 
 ## Poster
 
-[![](/files/poster-cavepm-2025.png){fig-align="center"}](/files/poster-cavepm-2025.pdf)
+Click on the image below to view the poster.
 
-## Note
-
-This poster presents the combined results from chapters 3 & 4 of my doctoral thesis, [Explorations of Emotional Intelligence and Thriving Well-being in Early-career Veterinarians](https://hdl.handle.net/10214/29012).
-
-Chapter 3 of my thesis has also been published as the article ["**A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"**](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5599)
-
-## Abstract
-
-         The veterinary profession can be highly rewarding, but the emotional nature of clinical work can also contribute to mental distress and poor job satisfaction. Emotional intelligence (EI) is the ability to recognize, understand, and manage one's own emotions and the emotions of others. In veterinarians, EI is increasingly recognized as a critical skill that can enhance client communication, teamwork, stress-coping, and mental well-being. The potential to enhance the retention of veterinarians in the profession is particularly important when considering the national shortage. The objectives of this study were to investigate factors that influence EI throughout the first year of Canadian veterinarians’ careers and to understand early-career veterinarians’ experiences with managing intense emotions in veterinary work.
-
-         A mixed qualitative (QUAL) and quantitative (QUAN) method was used to create a comprehensive and nuanced understanding of veterinarians’ mastery of EI and relevant experiences in clinical practice. An online longitudinal QUAN survey using validated psychometric scales and demographic and lifestyle questions was used to collect data at graduation with follow-up at 6- and 12-months post-graduation from individuals who graduated from one of the five Canadian veterinary colleges in 2022 and 2023 (n = 214). EI was measured using the Trait Emotional Intelligence Questionnaire - Short form (TEIQue-SF) (score range 1-7; higher scores reflect higher EI). Data were analyzed using Linear-Mixed Models (LMM). Additionally, 21 QUAL interviews with early-career veterinarians conducted between October 2022 and August 2023 were transcribed and analyzed using template thematic analysis. A convergent explanatory mixed methods study design was used, combining the QUAN and QUAL results at the interpretation and reporting stages.
-
-         QUAN results revealed that, overall, the sample had marginally lower EI scores than the general population and significantly lower scores in Emotionality (understanding one’s emotions) and Sociability (influencing emotions of others). Factors that affected EI included social support, time spent outdoors, and mental health status. QUAL results highlighted participants’ perceptions of the sources of emotional distress and applications of EI in clinical practice. Challenging client interactions were highlighted as a frequent source of emotional distress. Understanding clients’ emotions and being empathetic were described as crucial aspects of client communication. Meanwhile, understanding and managing their own emotions were skills that helped some participants cope with work-related stress. Nevertheless, participants often indicated that they were unable to process their own emotions due to lack of time or prioritized clients’ emotions over their own, supporting the QUAN findings on lower scores in Emotionality. Combined, the results underscored the role of social support and discussed opportunities to improve EI, such as initiating EI training programs.
-
-         These findings support investment in EI training programs, as well as initiatives to develop meaningful social connections, which may also help improve EI in veterinarians. Strengthening EI in the veterinary profession could offer numerous benefits, including: strengthened interpersonal relationships, enhanced client communication skills, improved ability to manage external pressures, and improved overall mental well-being.
+[![](images/poster-cavepm-2025.png){fig-align="center" width="800"}](files/poster-cavepm-2025.pdf)
 
 ## References
 

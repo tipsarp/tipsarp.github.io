@@ -1,19 +1,16 @@
 ---
-title: "“A Multitude of Emotions” in Veterinary Work: A Mixed-Methods Analysis of Emotional Intelligence and Experiences in Early-Career Veterinarians"
+title: "“A Multitude of Emotions” in Veterinary Work"
+subtitle: "A Mixed-Methods Analysis of Emotional Intelligence and Experiences in Early-Career Veterinarians"
+date: 2024-11-13
+categories:
+  - "Oral"
 ---
 
-### Tipsarp Kittisiam^1^, Emily Morabito^2^, Caroline Ritter^2^, Adam Stacey^3^, Deep Khosa^1^ and Andria Jones^1^
+> ## Note
+>
+> This presentation was delivered as an oral presentation at the **17th International Symposium on Veterinary Epidemiology and Economics** in Sydney, Australia, during the session, "Epidemiology in a socially connected world".
 
-^1^ Ontario Veterinary College, University of Guelph.\
-^2^ Atlantic Veterinary College, University of Prince Edward Island\
-^3^ University of Saskatchewan
-
-## Abstract
-
-Emotions are integral to veterinary work. Despite rewarding experiences, veterinarians may also experience emotional distress, predisposing to burnout and possibly leaving the profession. Mastery of Emotional Intelligence (EI) has the potential to help veterinarians cope with emotional work demands, enhance teamwork, and improve client communication. Previous research suggests EI in veterinarians demonstrates opportunity for improvement. This study aimed to understand how validated measures of EI change throughout the first year of practice and describe early-career veterinarians’ experiences with managing intense emotions.
-
-This study used mixed qualitative and quantitative methods. We conducted a longitudinal survey of the graduating Classes of 2022 and 2023 from the five veterinary schools in Canada, from graduation to 1-year in clinical practice (final time point: March 2024). The survey included the Trait Emotional Intelligence Questionnaire - Short form (TEIQue-SF) (range 1-7; higher scores reflect higher EI). Participants’ baseline (t1) (n=212) mean EI score (4.93, 95%CI 4.82 - 5.0-3) was marginally lower than the referent population (5.11, 95%CI 4.98 - 5.24). Cis-men and cis-women had higher EI scores than other genders (p=0.03). EI subscale analysis showed no difference in well- being and self-control, but marginally lower emotionality (5.04, 95%CI 4.90 - 5.17 vs. 5.25, 95%CI 5.11-5.39) and marginally higher sociability (5.39, 95%CI 5.24 - 5.54 vs. 4.97, 95%CI 4.84 - 5.1) than the referent population. Longitudinal modelling techniques will help determine how EI and its subscales change over time.\
-Transcriptions of interviews with 21 early-career veterinarians (October 2022 – August 2023) are being thematically analyzed. Participants described the emotionally charged aspect of clinical work, acknowledged the importance of EI in practice, and shared pathways taken to improve their EI. Participants’ lived experiences acknowledge the benefits of EI on veterinarians’ clinical practice and well-being, highlight training gaps, and complement the opportunities for improving EI observed in the quantitative results.
+[Click here to download the abstract.](files/isvee-abstract.pdf)
 
 ## References
 

@@ -1,6 +1,11 @@
 ---
-title: "Doctoral Thesis Defence Presentation"
+title: "Doctoral Thesis Defence"
+date: 2025-05-02
+categories:
+- "Oral"
 ---
+
+![](images/2025may-defence.png){fig-align="center"}
 
 ## Links
 
