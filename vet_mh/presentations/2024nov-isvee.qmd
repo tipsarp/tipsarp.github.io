@@ -2,7 +2,8 @@
 title: "“A Multitude of Emotions” in Veterinary Work: A Mixed-Methods Analysis of Emotional Intelligence and Experiences in Early-Career Veterinarians"
 ---
 
-Tipsarp Kittisiam^1^, Emily Morabito^2^, Caroline Ritter^2^, Adam Stacey^3^, Deep Khosa^1^ and Andria Jones^1^\
+### Tipsarp Kittisiam^1^, Emily Morabito^2^, Caroline Ritter^2^, Adam Stacey^3^, Deep Khosa^1^ and Andria Jones^1^
+
 ^1^ Ontario Veterinary College, University of Guelph.\
 ^2^ Atlantic Veterinary College, University of Prince Edward Island\
 ^3^ University of Saskatchewan

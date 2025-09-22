@@ -2,21 +2,18 @@
 title: "Tipsarp `Minnie` Kittisiam"
 about:
   template: trestles
-  image: "images/about-minnie.png"
+  image: "images/IMG_6379.jpeg"
   image-shape: round
   links:
     - icon: linkedin
       text: LinkedIn
-      url: "https://www.linkedin.com/in/tipsarpk/"
+      url: "https://www.linkedin.com/in/tipsarp/"
     - icon: github
       text: GitHub
-      url: "https://github.com/minnie-kitt"
+      url: "https://github.com/tipsarp"
     - icon: envelope
       text: Email
-      url: "mailto:tkittisi@uoguelph.ca"
-    - icon: globe
-      text: AJ Research Lab
-      url: "https://ajresearch.ca"
+      url: "mailto:tipsarp.k@gmail.com"
     - icon: 0-circle-fill
       text: ORCID
       url: "https://orcid.org/0000-0001-9091-5906"
@@ -27,13 +24,19 @@ about:
 
 ## Bio
 
-Tipsarp (Minnie) Kittisiam is a Ph.D. Candidate in Epidemiology at the Department of Population Medicine, Ontario Veterinary College, University of Guelph, Canada. She received her D.V.M. and M.Sc. (Veterinary Epidemiology) from Kasetsart University, Thailand. Her experiences during clinical rotations, as well as those of her peers in clinical practice, inspired her to study mental health in veterinarians. She is currently part of a joint research project between the Atlantic Veterinary College and the Ontario Veterinary College that aims to support the positive well-being of veterinarians who are transitioning from graduation into practice.
+I am an aspiring veterinary epidemiologist with international experience, teaching expertise, and a proven ability to work in multicultural settings. During my D.V.M., I sought out opportunities to expand my horizons, which led me to provide outreach with the Veterinary Volunteer club and practice my leadership skills with the International Veterinary Students Association.\
+\
+As a dog person, I was delighted to research free-roaming dogs in Thailand for my M.Sc. in Veterinary Epidemiology, where I mastered (pun intended) advanced epidemiological and biostatistical methods such as Network Analysis.\
+\
+My lived experiences and research paths converged, encouraging me to pursue my Ph.D. research on improving mental well-being in veterinarians using a mix of quantitative and qualitative research methods. My doctoral research solidified my appreciation of qualitative research methods, such as using thematic analysis on transcribed interviews, which shed light on findings that may not be within the reach of quantitative methods.\
+\
+The wealth of knowledge that the past decade has brought me has inspired me to continue to broaden my horizons and welcome what future opportunities may arise.
 
 ## Education
 
 **Doctor of Philosophy (Ph.D.) in Epidemiology**
 
-September 2021 - April 2025 (Expected)
+September 2021 - May 2025
 
 *Department of Population Medicine, Ontario Veterinary College, University of Guelph*
 
@@ -54,17 +57,3 @@ Nakhon Pathom, Thailand
 *Faculty of Veterinary Medicine, Kasetsart University*
 
 Bangkok, Thailand
-
-## Experience
-
-**University of Guelph**
-
-*Doctoral Researcher and Teaching Assistant*
-
-September 2021 - Present
-
-**“Rabies-Free Animal Project” Kasetsart University**
-
-*Research Assistant*
-
-July 2019 - November 2021

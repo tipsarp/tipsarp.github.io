@@ -4,28 +4,17 @@ project:
 
 website:
   page-footer: 
-    center: "Copyright 2024, Tipsarp Kittisiam" 
-    right: 
-      - icon: github
-        href: https://github.com/
+    center: "Copyright 2025, Tipsarp Kittisiam" 
   search: false
   back-to-top-navigation: true
   navbar:
       left:
         - href: index.qmd
-          text: About
+          text: About Me
         - href: cv.qmd
-          text: CV
-        - text: "Research"
-          menu: 
-            - href: vet_mh.qmd
-              text: Veterinarian Mental Health
-      right: 
-        - icon: linkedin
-          href: https://www.linkedin.com/in/tipsarpk/
-        - icon: envelope
-          href: mailto:tkittisi@uoguelph.ca
-        
+          text: Curriculum Vitae
+        - text: "Veterinarian Well-being Research"
+          href: vet_mh/vet_mh.qmd
 
 format:
   html:

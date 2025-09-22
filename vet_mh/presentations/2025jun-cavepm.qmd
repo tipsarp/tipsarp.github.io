@@ -1,0 +1,54 @@
+---
+title: "How can Emotional Intelligence benefit veterinarians? A Mixed-Methods Analysis (Poster)"
+format: html
+---
+
+## Poster
+
+[![](/files/poster-cavepm-2025.png){fig-align="center"}](/files/poster-cavepm-2025.pdf)
+
+## Note
+
+This poster presents the combined results from chapters 3 & 4 of my doctoral thesis, [Explorations of Emotional Intelligence and Thriving Well-being in Early-career Veterinarians](https://hdl.handle.net/10214/29012).
+
+Chapter 3 of my thesis has also been published as the article ["**A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"**](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5599)
+
+## Abstract
+
+         The veterinary profession can be highly rewarding, but the emotional nature of clinical work can also contribute to mental distress and poor job satisfaction. Emotional intelligence (EI) is the ability to recognize, understand, and manage one's own emotions and the emotions of others. In veterinarians, EI is increasingly recognized as a critical skill that can enhance client communication, teamwork, stress-coping, and mental well-being. The potential to enhance the retention of veterinarians in the profession is particularly important when considering the national shortage. The objectives of this study were to investigate factors that influence EI throughout the first year of Canadian veterinarians’ careers and to understand early-career veterinarians’ experiences with managing intense emotions in veterinary work.
+
+         A mixed qualitative (QUAL) and quantitative (QUAN) method was used to create a comprehensive and nuanced understanding of veterinarians’ mastery of EI and relevant experiences in clinical practice. An online longitudinal QUAN survey using validated psychometric scales and demographic and lifestyle questions was used to collect data at graduation with follow-up at 6- and 12-months post-graduation from individuals who graduated from one of the five Canadian veterinary colleges in 2022 and 2023 (n = 214). EI was measured using the Trait Emotional Intelligence Questionnaire - Short form (TEIQue-SF) (score range 1-7; higher scores reflect higher EI). Data were analyzed using Linear-Mixed Models (LMM). Additionally, 21 QUAL interviews with early-career veterinarians conducted between October 2022 and August 2023 were transcribed and analyzed using template thematic analysis. A convergent explanatory mixed methods study design was used, combining the QUAN and QUAL results at the interpretation and reporting stages.
+
+         QUAN results revealed that, overall, the sample had marginally lower EI scores than the general population and significantly lower scores in Emotionality (understanding one’s emotions) and Sociability (influencing emotions of others). Factors that affected EI included social support, time spent outdoors, and mental health status. QUAL results highlighted participants’ perceptions of the sources of emotional distress and applications of EI in clinical practice. Challenging client interactions were highlighted as a frequent source of emotional distress. Understanding clients’ emotions and being empathetic were described as crucial aspects of client communication. Meanwhile, understanding and managing their own emotions were skills that helped some participants cope with work-related stress. Nevertheless, participants often indicated that they were unable to process their own emotions due to lack of time or prioritized clients’ emotions over their own, supporting the QUAN findings on lower scores in Emotionality. Combined, the results underscored the role of social support and discussed opportunities to improve EI, such as initiating EI training programs.
+
+         These findings support investment in EI training programs, as well as initiatives to develop meaningful social connections, which may also help improve EI in veterinarians. Strengthening EI in the veterinary profession could offer numerous benefits, including: strengthened interpersonal relationships, enhanced client communication skills, improved ability to manage external pressures, and improved overall mental well-being.
+
+## References
+
+Bartram, D. J., Yadegarfar, G., & Baldwin, D. S. (2009). Psychosocial working conditions and work-related stressors among UK veterinary surgeons. *Occup Med (Lond)*, *59*(5), 334-341. <https://doi.org/10.1093/occmed/kqp072>
+
+Brooks, J., McCluskey, S., Turley, E., & King, N. (2015). The Utility of Template Analysis in Qualitative Psychology Research. *Qual Res Psychol*, *12*(2), 202-222. <https://doi.org/10.1080/14780887.2014.955224>
+
+Cake, M. A., Bell, M. A., Williams, J. C., Brown, F. J., Dozier, M., Rhind, S. M., & Baillie, S. (2016). Which professional (non-technical) competencies are most important to the success of graduate veterinarians? A Best Evidence Medical Education (BEME) systematic review: BEME Guide No. 38. *Med Teach*, *38*(6), 550-563. <https://doi.org/10.3109/0142159X.2016.1173662>
+
+Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry & research design : choosing among five approaches* (Fourth edition. ed.). SAGE Publications, Inc.
+
+Gardner, D. H., & Hini, D. (2006). Work-related stress in the veterinary profession in New Zealand. *N Z Vet J*, *54*(3), 119-124. <https://doi.org/10.1080/00480169.2006.36623>
+
+Gilling, M. L., & Parkinson, T. J. (2009). The transition from veterinary student to practitioner: a "make or break" period. *J Vet Med Educ*, *36*(2), 209-215. <https://doi.org/10.3138/jvme.36.2.209>
+
+Hatch, P. H., Winefield, H. R., Christie, B. A., & Lievaart, J. J. (2011). Workplace stress, mental health, and burnout of veterinarians in Australia. *Aust Vet J*, *89*(11), 460-468. <https://doi.org/10.1111/j.1751-0813.2011.00833.x>
+
+Mastenbroek, N. J., van Beukelen, P., Demerouti, E., Scherpbier, A. J., & Jaarsma, A. D. (2015). Effects of a 1 year development programme for recently graduated veterinary professionals on personal and job resources: a combined quantitative and qualitative approach. *BMC Vet Res*, *11*, 311. <https://doi.org/10.1186/s12917-015-0627-y>
+
+McArthur, M. L., Learey, T. J., Jarden, A., Van Gelderen, I., Hazel, S. J., Cake, M. A., Mansfield, C. F., Zaki, S., & Matthew, S. M. (2021). Resilience of veterinarians at different career stages: The role of self-efficacy, coping strategies and personal resources for resilience in veterinary practice. *Vet Rec*, *189*(12), e771. <https://doi.org/10.1002/vetr.771>
+
+Perret, J. L., Best, C. O., Coe, J. B., Greer, A. L., Khosa, D. K., & Jones-Bitton, A. (2020). Prevalence of mental health outcomes among Canadian veterinarians. *J Am Vet Med Assoc*, *256*(3), 365-375. <https://doi.org/10.2460/javma.256.3.365>
+
+Petrides, K. V. (2009a). Psychometric Properties of the Trait Emotional Intelligence Questionnaire (TEIQue). In J. D. A. Parker, D. H. Saklofske, & C. Stough (Eds.), *Assessing Emotional Intelligence* (pp. 85-101). Springer US. <https://doi.org/10.1007/978-0-387-88370-0_5>
+
+Petrides, K. V. (2009b). Technical manual for the Trait Emotional Intelligence Questionnaires. In (1st ed.). London: London Psychometric Laboratory.
+
+Timmins, R. P. (2006). How does emotional intelligence fit into the paradigm of veterinary medical education? *J Vet Med Educ*, *33*(1), 71-75. <https://doi.org/10.3138/jvme.33.1.71>
+
+VanderWeele, T. J., Chen, Y., Long, K., Kim, E. S., Trudel-Fitzgerald, C., & Kubzansky, L. D. (2020). Positive Epidemiology? *Epidemiology*, *31*(2), 189-193. <https://doi.org/10.1097/EDE.0000000000001147>

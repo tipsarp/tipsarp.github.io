@@ -1,0 +1,29 @@
+---
+title: "Veterinarian Mental Well-being"
+listing: 
+  - id: presentations
+    contents: "presentations/*.qmd"
+    type: table
+    fields: [title, date, categories]
+---
+
+# My Contribution and Research
+
+## Veterinary Feelings
+
+> Veterinary medicine is an [undeniably emotional profession](https://doi.org/10.1177/0891241611435099). Veterinarians are subject to emotional distress on a regular basis, whether that is their own emotions—*perhaps brought by the inevitable failure to save a patient—* or the clients’ emotions, from losing a beloved pet. With this constant exposure to extremely emotional situations, it’s no wonder that many veterinarians experience [empathic distress](https://doi.org/10.1016/B0-08-043076-7/01739-3), eventually leading to [burnout](https://doi.org/10.1080/00480169.2019.1669504) and, in some cases, leaving the profession.
+>
+> In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them about emotional experiences in their clinical practice as part of my doctoral thesis research, now published as the article, ["A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"](https://doi.org/10.1002/vetr.5599). This article below, summarizes the findings in a more digestible language.
+>
+> [Continue reading...](vet_feelings.qmd)
+
+# Relevant Publications
+
+[A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5599)
+
+[“This is my why.” Exploring the concept of meaningful work in early-career veterinarians across Canada](https://doi.org/10.3389/fvets.2025.1595949)
+
+# Previous Presentations
+
+::: {#presentations}
+:::

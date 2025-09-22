@@ -1,0 +1,63 @@
+---
+title: "Doctoral Thesis Defence Presentation"
+---
+
+## Links
+
+-   Full thesis: [Explorations of Emotional Intelligence and Thriving Well-being in Early-career Veterinarians](https://hdl.handle.net/10214/29012)
+
+-   Chapter 3 of my thesis has now been published as the article ["**A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"**](https://bvajournals.onlinelibrary.wiley.com/doi/10.1002/vetr.5599)
+
+-   [WSAVA professional wellness guidelines](https://onlinelibrary.wiley.com/doi/10.1111/jsap.13689)
+
+## References
+
+Bar-On, R. (2006). The Bar-On model of emotional-social intelligence (ESI). *Psicothema*, *18 Suppl*(Suppl), 13-25. <https://www.ncbi.nlm.nih.gov/pubmed/17295953>
+
+Bartram, D. J., Yadegarfar, G., & Baldwin, D. S. (2009). A cross-sectional study of mental health and well-being and their associations in the UK veterinary profession. *Soc Psychiatry Psychiatr Epidemiol*, *44*(12), 1075-1085. <https://doi.org/10.1007/s00127-009-0030-8>
+
+Best, C. O., Perret, J. L., Hewson, J., Khosa, D. K., Conlon, P. D., & Jones-Bitton, A. (2020). A survey of veterinarian mental health and resilience in Ontario, Canada. *Can Vet J*, *61*(2), 166-172. <https://www.ncbi.nlm.nih.gov/pubmed/32020936>
+
+Blokland, K., Coe, J. B., & Spitznagel, M. B. (2024). Veterinary team members experiencing high levels of burden transfer are more likely to report burnout and a less optimal psychosocial work environment. *J Am Vet Med Assoc*, *262*(3), 343-351. <https://doi.org/10.2460/javma.23.06.0354>
+
+Cake, M. A., McArthur, M. M., Matthew, S. M., & Mansfield, C. F. (2017). Finding the balance: uncovering resilience in the veterinary literature. *J Vet Med Educ*, *44*(1), 95-105. <https://doi.org/10.3138/jvme.0116-025R>
+
+Connor, K. M., & Davidson, J. R. (2003). Development of a new resilience scale: the Connor-Davidson Resilience Scale (CD-RISC). *Depress Anxiety*, *18*(2), 76-82. <https://doi.org/10.1002/da.10113>
+
+Cordes, C. L., & Dougherty, T. W. (1993). A review and an integration of research on job burnout. *Academy of Management Review*, *18*(4), 621-656. <https://doi.org/10.2307/258593>
+
+Corrigan, V. K., Newman, R. L., Richmond, P., Strand, E. B., & Vaisman, J. M. (2024). The future of flourishing in veterinary medicine: a systems-informed positive psychology approach in veterinary education \[Review\]. *Front Vet Sci*, *11*, 1484412. <https://doi.org/10.3389/fvets.2024.1484412>
+
+Creswell, J. W., & Plano Clark, V. L. (2018). *Designing and conducting mixed methods research* (Third Edition. ed.). SAGE.
+
+Demerouti, E., Bakker, A. B., Peeters, M. C. W., & Breevaart, K. (2021). New directions in burnout research. *European Journal of Work and Organizational Psychology*, *30*(5), 686-691. <https://doi.org/10.1080/1359432x.2021.1979962>
+
+Fritschi, L., Morrison, D., Shirangi, A., & Day, L. (2009). Psychological well-being of Australian veterinarians. *Aust Vet J*, *87*(3), 76-81. <https://doi.org/10.1111/j.1751-0813.2009.00391.x>
+
+Hatch, P. H., Winefield, H. R., Christie, B. A., & Lievaart, J. J. (2011). Workplace stress, mental health, and burnout of veterinarians in Australia. *Aust Vet J*, *89*(11), 460-468. <https://doi.org/10.1111/j.1751-0813.2011.00833.x>
+
+Mayer, J. D., Salovey, P., Caruso, D. R., & Sitarenios, G. (2001). Emotional intelligence as a standard intelligence. *Emotion*, *1*(3), 232-242. [https://doi.org/10.1037//1528-3542.1.3.232](https://doi.org/10.1037/1528-3542.1.3.232)
+
+Nett, R. J., Witte, T. K., Holzbauer, S. M., Elchos, B. L., Campagnolo, E. R., Musgrave, K. J., Carter, K. K., Kurkjian, K. M., Vanicek, C. F., O'Leary, D. R., Pride, K. R., & Funk, R. H. (2015). Risk factors for suicide, attitudes toward mental illness, and practice-related stressors among US veterinarians. *J Am Vet Med Assoc*, *247*(8), 945-955. <https://doi.org/10.2460/javma.247.8.945>
+
+Paton, M. W., Kalemtzaki, E., Stoewen, D., Hameedunisha, T., Yang, H., Donlin, J., & Endenburg, N. (2024). WSAVA professional wellness guidelines. *J Small Anim Pract*, *65*(3), 153-175. <https://doi.org/10.1111/jsap.13689>
+
+Perret, J. L., Best, C. O., Coe, J. B., Greer, A. L., Khosa, D. K., & Jones-Bitton, A. (2020). Prevalence of mental health outcomes among Canadian veterinarians. *J Am Vet Med Assoc*, *256*(3), 365-375. <https://doi.org/10.2460/javma.256.3.365>
+
+Petrides, K. V. (2009). Psychometric properties of the Trait Emotional Intelligence Questionnaire (TEIQue). In J. D. A. Parker, D. H. Saklofske, & C. Stough (Eds.), *Assessing Emotional Intelligence* (pp. 85-101). Springer US. <https://doi.org/10.1007/978-0-387-88370-0_5>
+
+Plano Clark, V. L., & Ivankova, N. V. (2016). How to use mixed methods research?: understanding the basic mixed methods designs. In. SAGE Publications, Inc. <https://doi.org/10.4135/9781483398341>
+
+Platt, B., Hawton, K., Simkin, S., & Mellanby, R. J. (2010). Systematic review of the prevalence of suicide in veterinary surgeons. *Occup Med (Lond)*, *60*(6), 436-446. <https://doi.org/10.1093/occmed/kqq044>
+
+Platt, B., Hawton, K., Simkin, S., & Mellanby, R. J. (2012). Suicidal behaviour and psychosocial problems in veterinary surgeons: a systematic review. *Soc Psychiatry Psychiatr Epidemiol*, *47*(2), 223-240. <https://doi.org/10.1007/s00127-010-0328-6>
+
+Ritter, C., Koralesky, K. E., Saraceni, J., Roche, S., Vaarst, M., & Kelton, D. (2023). Invited review: Qualitative research in dairy science—A narrative review. *Journal of Dairy Science*, *106*(9), 5880-5895. [https://doi.org/https://doi.org/10.3168/jds.2022-23125](https://doi.org/https:/doi.org/10.3168/jds.2022-23125)
+
+Ryff, C. D., & Singer, B. H. (2006). Know thyself and become what you are: a eudaimonic approach to psychological well-being. *Journal of Happiness Studies*, *9*(1), 13-39. <https://doi.org/10.1007/s10902-006-9019-0>
+
+Schutte, N. S., Malouff, J. M., Hall, L. E., Haggerty, D. J., Cooper, J. T., Golden, C. J., & Dornheim, L. (1998). Development and validation of a measure of emotional intelligence. *Personality and Individual Differences*, *25*(2), 167-177. <https://doi.org/10.1016/S0191-8869(98)00001-4>
+
+Stamm, B. H. (2010). *The concise ProQOL manual* (2nd ed.)  ProQOL.org
+
+World Health Organization. (2022). *World mental health report: transforming mental health for all*. World Health Organization. <https://iris.who.int/handle/10665/356119>

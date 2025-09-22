@@ -1,0 +1,179 @@
+---
+title: "Veterinary Feelings"
+author: Tipsarp Kittisiam
+date: "7/4/2025"
+date-modified: "7/17/2025"
+---
+
+Veterinary medicine is an [undeniably emotional profession](https://doi.org/10.1177/0891241611435099). Veterinarians are subject to emotional distress on a regular basis, whether that is their own emotions—*perhaps brought by the inevitable failure to save a patient—* or the clients’ emotions, from losing a beloved pet. With this constant exposure to extremely emotional situations, it’s no wonder that many veterinarians experience [empathic distress](https://doi.org/10.1016/B0-08-043076-7/01739-3), eventually leading to [burnout](https://doi.org/10.1080/00480169.2019.1669504) and, in some cases, leaving the profession.
+
+In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them about emotional experiences in their clinical practice as part of my doctoral thesis research, now published as the article, ["A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"](https://doi.org/10.1002/vetr.5599). This article below, summarizes the findings in a more digestible language.
+
+------------------------------------------------------------------------
+
+# Part 1: The Emotional Toll of Client Interactions
+
+In this study, I discovered that…
+
+### Client interactions are a huge emotional toll on veterinarians
+
+Surprisingly — *or perhaps* [*unsurprisingly*](https://doi.org/10.1108/IJWHM-01-2021-0007)*—* **talking with clients** was a huge emotional stressor during their early career. One veterinarian suggested that most challenges they faced as a vet were *human problems, not animal problems.*
+
+But when we dig deeper into the root of why talking with clients can be so stressful, we can consider that there may be **internal** influences (the veterinarian’s thoughts and feelings) and **external** influences (the clients’ actions).
+
+#### On the one hand, clients can be [uncivil](https://doi.org/10.1002/vetr.1078) or *even* straight-up abusive…
+
+These often follow situations where animals were unstable, critically ill, and/or had poor prognoses. As you can imagine, unpleasant emotions tend to build up in these situations. And, often, clients have nowhere to direct them except at the veterinarian.
+
+To make matters worse, some clients have believed that since *vets make so much money*, they must be *overcharging* or *gouging* their prices.
+
+As one veterinarian explained, there are so many non-negotiable costs that go into the cost of the surgery, for example, the surgeon, the anesthesia, the tech who monitors the anesthesia, the drugs, *etc.* — all these costs that many are unaware of. They concluded that the same surgery on a human would “probably be way more, like, *20 times the cost.*”
+
+Many veterinarians described being **verbally abused, threatened, and accused by clients** using phrases such as “*you just want my dog to die, then.”* In one extreme example, the threats escalated to the point where police had to escort the client out of the clinic, creating a long-term sense of fear and emotional trauma for the veterinarian involved.
+
+#### As terrible as clients can be, it’s undeniable that the veterinarians’ own thoughts and feelings contribute to the emotional distress as well.
+
+Many of those accusations made by clients were also layered with an attack on the veterinarian’s character or motivation, such as “*you obviously don’t care if you’re gonna refuse treatment because I can’t pay for it.*”
+
+These attacks can feel especially harmful to veterinarians whose careers are an integral part of their identity. One veterinarian commented, “*Vets can sometimes take it really personally when a client is upset or when a case doesn’t go their way.*”
+
+For those at the start of their career, it can be especially hurtful. One veterinarian said, *“When I was a little baby vet, I really took that to heart.”* This was a tough time with tough feelings, with many sharing feelings of stress, fear, and self-doubt.
+
+#### New veterinarians are also faced with some additional challenges that they must overcome.
+
+Some initially found it difficult to find the sweet spot in communicating the severity and urgency of a pet’s condition. They can’t be too blunt, because it may come across as *heartless.* But, they can’t sugarcoat it too much, or the client may think that it’s not that serious.
+
+For some, translating big medical jargon into lay terms was also challenging— which I believe might reflect the new vet’s (lack of) confidence in communication skills, since a few interviewees expressed wishing they had paid more attention to communication courses when they were in school.
+
+Lastly, many early-career vets noticed feeling *doubted* or *criticized* when clients perceived them as *the new vet.* For some, it shifts their frame of thinking, and they feel the need to prove themselves. This could also compromise the quality of care, as the focus is now shifted away from treating the animal.
+
+#### Overall, *certain* client interactions caused huge emotional distress for veterinarians...
+
+especially, for vets whom being a veterinarian is an integral part of their identity and vets at the beginning of their careers, who have extra hurdles to overcome.
+
+The context-specific results provide great insight into the emotional toll of client interactions on veterinarians, and perhaps may even be validating to those who have experienced something similar.
+
+------------------------------------------------------------------------
+
+# Part 2: What Feelings?
+
+Previously, I shared how certain client interactions can take a toll on veterinarians’ emotions. In this post, I wanted to pivot our focus onto what veterinarians in my research had to say about their own emotions…
+
+Most veterinarians that I interviewed were relatively self-aware, in that they recognized their [emotional comfort zone](https://pmc.ncbi.nlm.nih.gov/articles/PMC6973202/), describing their stoicism as being “*a rock*” for clients to lean on or “*an emotional sponge*” (soaking up clients’ emotions).
+
+For some, this awareness also comes with the realization of its pitfalls. As one veterinarian explained, *"If you’re a sponge and you absorb it all, then you’re going to feel like trash at the end of the day."*
+
+Many also noticed the [negativity bias](https://positivepsychology.com/3-steps-negativity-bias/) they held, especially when it comes to client interactions. It was easier to recall the tough cases and “*bad*” outcomes, despite there being no shortage of the good ones.
+
+#### “I don’t know what I felt…”
+
+However, in contrast to the lengthy discussions about emotional situations and clients’ emotions, many veterinarians were stumped when it came to naming what *they* felt.
+
+Responses like “*I don’t know what I felt*,” or something to that effect, were relatively common. And, honestly, it wasn’t that unexpected to me since…
+
+#### Veterinarians likely don’t have the time (or space) to process what they feel at work.
+
+Veterinary clinics were described as “*emotional roller coasters*” where veterinarians went from a puppy appointment, then, a euthanasia, with little to no time in between.
+
+This leads many veterinarians to “*brush their emotions under the rug and move on”* and rely on this strategy to get them through the day.
+
+With the [clients’ heightened emotions](/posts/20250704.qmd) during appointments, many veterinarians felt the need to adjust how they express their emotions according to the situation.
+
+If clients come in with overwhelming stress, veteinarians make an extra effort to appear calmer, or *vice versa*. If they come in with a serious emergency that they brush off, veterinarians try to professionally express their emotions to convey the urgency of the situation.
+
+#### As a result, veterinarians are often put in a position where their emotions are a second priority compared to the clients.
+
+Many interviewees described their feelings as “*an afterthought*”, “*peripheral*”, and “*not important*” at work, and they believed this was a necessary part of practising veterinary medicine.
+
+#### Many also felt there was a stigma associated with expressing their emotions as a veterinarian.
+
+Some were taught, as vet students, that it was unprofessional to cry at work, and carried that belief with them into their early careers.
+
+Of course, not all agree with this belief, as one veterinarian shared that it felt “*completely appropriate for them to mourn the loss of a patient they loved*” alongside the client.
+
+So, it’s not entirely surprising that many veterinarians aren’t able to process their uncomfortable emotions at work, since…
+
+-   They’re constantly being bombarded with clients’ emotions (and possibly, colleagues’ emotions).
+
+-   They don’t have time — imagine having \< 5 minutes to run around between appointments. That’s barely a potty break.
+
+-   They may not have the space — the perceived stigma at work, potentially eliminates the workplace as an option to debrief among those who share similar struggles
+
+Understandably, many veterinarians also had a tendency to avoid processing their emotions after many consecutive days of long, exhausting, 12-hour shifts, until they noticed the *boxed-up emotions* start to spill over into their home lives.
+
+#### So, veterinarians had to deliberately *make time* to process their emotions…
+
+Veterinarians who were able to name what they felt in the interviews shared that they had *retrospectively* reflected and processed their feelings after those events, meaning they had to *actively* *make time* to sit with these uncomfortable feelings outside of their work hours, perhaps repeatedly, in order to better understand them.
+
+For some, this meant talking to a trained professional, like a [counsellor or therapist](https://www.canadianveterinarians.net/veterinary-resources/veterinary-health-and-wellness-resources/mental-health-awareness-resources/who-ya-gonna-call-helpline-phone-numbers-and-websites/).
+
+For others, it was talking it out with their friends and family, or even ruminating on it by themselves while on a bike ride:
+
+> *"I would go on a really long bike ride. And just kind of like, let my brain think about whatever it wanted to think about. And if it kept coming back to like a specific case, then I was like, ‘okay, I clearly—like I’m not done digesting through that’."*
+
+As beneficial as it is for veterinarians to set aside time to process the uncomfortable emotions that come with the job, it is undeniable that the systems that contribute to overwork *also* contribute to the overwhelming number of appointments and the lack of time between them, perpetuating a vicious cycle of overworking, burnout, and attrition. And, it can not be solely up to the individual to fix an issue that is largely systemic.
+
+------------------------------------------------------------------------
+
+# Part 3: Emotional Intelligence
+
+Emotional Intelligence is, *simply put*, how proficient you are at using a set of skills to…
+
+-   Understand others’ emotions
+-   Influence others’ emotions
+
+*and*
+
+-   Understand your own emotions
+-   Manage your own emotions
+
+So, after giving the interviewees a brief description of emotional intelligence and discussing it, I learned that most participants understood and agreed that emotional intelligence was a skill (meaning it can be taught and trained to improve), and that it was extremely relevant to clinical practice.
+
+Some even believed it made them “*a better veterinarian.*”
+
+## “Different people need different things.”
+
+*Compassion, Understanding,* and *Empathy* were crucial to communicating and connecting with clients and supporting them in highly emotional situations.
+
+Many veterinarians I know self-identify as very empathetic people.
+
+[Empathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5513638/#section3-2374373517699267) can be extremely helpful in understanding and managing clients’ heightened emotions.
+
+Many veterinarians shared how much they appreciated their ability to understand clients’ emotions and needs, since it also led to providing better care for their clients’ pets.
+
+Veterinary schools in Canada teach skills relating to client communication, such as *reading* clients’ emotions, so it’s no surprise that many of the discussions we had around emotional intelligence were associated with client communication training.
+
+Some interviewees also showed appreciation for the respective client communication courses in their schools and linked their ability to understand clients with the communication labs/rotations, where they were able to practice these skills in a safe environment.
+
+## “*I’m honestly not the most emotionally intelligent person...*”
+
+Recognizing the highly emotional nature of veterinary work, many agreed that being more proficient in emotional intelligence would be beneficial to their work.
+
+Not only in better understanding clients’ emotions, but also in understanding how their own emotions can surface at work.
+
+Despite many veterinarians self-describing themselves as “*not the most emotionally intelligent person*”, their understanding of how their emotions affect their work paints an entirely different picture.
+
+For instance, as a veterinarian, regulating (or failing to regulate) your emotions can influence your clinical work and reflect on your interactions with colleagues.
+
+Understanding your emotions can also benefit your mental well-being, since it can help you [gain insight into your feelings](https://positivepsychology.com/understanding-emotions/#the-important-role-of-negative-emotions) and uncover any hidden motivations behind them.
+
+## Veterinarians in this study were more proficient in understanding and managing clients’ emotions than their own.
+
+This is not an entirely unique phenomenon since [healthcare workers](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2021.640384/full) tend to focus more on the patients’ emotions in the provision of care.
+
+Frankly, as a veterinarian, I would focus more on clients’ emotions, too, considering [how stressful they can be](/posts/20250704.qmd). Not to mention, [it’s an expected part of the job](https://doi.org/10.1177/089124161143509), and I’ve been trained to do so in clinical communications courses.
+
+On the other hand, I’ve never been trained to regulate my own emotions— *even worse*, I’ve been told that it’s [unprofessional for me to express my emotions at work](/posts/20250710.qmd).
+
+So, in believing all of that, it would be much more effective for me to just shove my emotions away and deal with them later. (*Which I may or may not do*…)
+
+And the emotional intelligence proficiencies are just a reflection of that.
+
+As we know, emotional intelligence is a set of skills that can be improved upon. And, the veterinarians in this study graciously shared some ways they used to improve their skills:
+
+-   Self-reflection with personal support circle (partner, friends, family)
+-   Self-reflection with professional support circle (colleagues, mentor)
+-   Taking relevant CE or wellness workshops
+-   Counselling or therapy
+
+If you are a veterinarian (or know someone who is a veterinarian) who can relate to the findings presented in this series, I hope you’ve found this enlightening or affirming of your experience.

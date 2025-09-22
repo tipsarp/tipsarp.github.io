@@ -3,144 +3,180 @@ title: "Curriculum Vitae"
 toc: true
 ---
 
-[Click here to download the PDF Version.](/files/tkittisiam-cv-nov-2024.pdf)
-
-------------------------------------------------------------------------
-
-# **Tipsarp (Minnie) Kittisiam, D.V.M., M.Sc.**
-
-Passionate and knowledgeable Ph.D. Candidate in Epidemiology with international experience, teaching expertise, and a proven ability to work in multicultural settings. Skilled in conducting epidemiological research using a mix of quantitative and qualitative skills. Seeking to leverage my skills to advance research in human and animal health.
-
-## Experience
+## Research Experience
 
 **Doctoral Researcher**
 
-*2021 – Present*
+> *Sep 2021 - May 2025*
+>
+> Ontario Veterinary College, University of Guelph, ON, Canada
 
-PI: Dr. Caroline Ritter, University of Prince Edward Island, PE, Canada
+**Research Assistant**
 
-**Graduate Teaching Assistant, “Art of Veterinary Medicine I”**
+> *2019 - 2020*
+>
+> Kasetsart University, Nakhon Pathom, Thailand
 
-*Sep - Dec 2024*
+**Student Research Assistant (Casual)**
 
-Supervisor: Dr. Basem Gohar, University of Guelph, ON, Canada
+> *2017 - 2018*
+>
+> Kasetsart University, Nakhon Pathom, Thailand
 
-**Graduate Teaching Assistant, “Epidemiology I”**
+**D.V.M. Special Project**
 
-*Sep - Dec 2024*
+> *2017 - 2018*
+>
+> Kasetsart University, Nakhon Pathom, Thailand
 
-Supervisor: Dr. Kelsey Spence, University of Guelph, ON, Canada
+## Teaching Experience
 
-**Graduate Teaching Assistant, “Applied Clinical Research”**
+**Graduate Teaching Assistant**
 
-*Jan - Apr 2024*
+> *Jan 2024 - April 2025*
+>
+> Ontario Veterinary College, University of Guelph, ON, Canada
 
-Supervisor: Keana Shahin, University of Guelph, ON, Canada
+Courses:
 
-**Research Assistant, “Rabies-Free Animal Project”**
+-   Art of Veterinary Medicine I
 
-*2019 - 2020*
+-   Epidemiology I (Including guest lecture titled *Introduction to Study Design*)
 
-PI: Dr. Waraphon Phimpraphai, Kasetsart University, Thailand
+-   Applied Clinical Research (Including guest lecture titled *Descriptive Statistics and Starting R*)
+
+**Graduate Teaching Assistant**
+
+> *2019 - 2020*
+>
+> Faculty of Veterinary Medicine, Kasetsart University, Bangkok, Thailand
+
+Course: Clinical Biostatistics and Research Methodology
 
 ## Peer-Reviewed Publications
 
--   Leelahapongsathon, K., Wongphruksasoong V., Vos, A., Kasemsuwan, S., **Kittisiam, T.**, Sagarasaeranee, O. & Chanachai, K. (2023). ‘Oral Vaccination of Dogs as a Complementary Tool for Canine Rabies Control: The Thai Protocol’, CABI Books. CABI International. <https://www.cabidigitallibrary.org/doi/full/10.1079/9781800622975.0010>
+**Kittisiam, T.,** Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones, A. (2025). A Qualitative Exploration of the Emotional Experiences and Applications of Emotional Intelligence in Early-Career Veterinarians. *Veterinary Record.* Advance online publication. <https://doi.org/10.1002/vetr.5599>
 
--   **Kittisiam, T.**, Phimpraphai, W., Kasemsuwan, S., & Thakur, K. K. (2021). Analyses of Contact Networks of Community Dogs on a University Campus in Nakhon Pathom, Thailand. *Veterinary Sciences*, *8*(12), 299. <https://doi.org/10.3390/vetsci8120299>
+Morabito, E., Jones, A., **Kittisiam, T.**, Cake, M., & Ritter, C. (2025). “This is my why.” Exploring the concept of meaningful work in early-career veterinarians across Canada. *Frontiers in Veterinary Science*, *12-2025*. <https://doi.org/10.3389/fvets.2025.1595949>
+
+Leelahapongsathon, K., Wongphruksasoong V., Vos, A., Kasemsuwan, S., **Kittisiam, T.**, Sagarasaeranee, O. & Chanachai, K. (2023). ‘Oral Vaccination of Dogs as a Complementary Tool for Canine Rabies Control: The Thai Protocol’, CABI Books. CABI International. <https://www.cabidigitallibrary.org/doi/full/10.1079/9781800622975.0010>
+
+**Kittisiam, T.**, Phimpraphai, W., Kasemsuwan, S., & Thakur, K. K. (2021). Analyses of Contact Networks of Community Dogs on a University Campus in Nakhon Pathom, Thailand. *Veterinary Sciences*, *8*(12), 299. <https://doi.org/10.3390/vetsci8120299>
 
 ## Conference presentations, proceedings, and posters
 
 \* = Presenter
 
--   **Kittisiam, T.**\*, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones-Bitton, A. (2023, May 31 - June 1). Measures of positive mental health in graduating veterinary students: findings from baseline data collection. \[Poster session\]. 16th Canadian Association of Veterinary Epidemiology and Preventive Medicine (CAVEPM) Conference 2023, Guelph, ON, Canada. [Link to conference proceedings](https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/6/356/files/2023/05/CAVEPM-2023-Conference-Proceedings.pdf)
+**Kittisiam, T.\***, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones, A. (2025, Jun 9-10). How can Emotional Intelligence benefit veterinarians? A Mixed-Methods Analysis. \[Poster presentation\]. Canadian Association of Veterinary Epidemiology and Preventive Medicine (CAVEPM) Conference 2025, Calgary, AB, Canada.
 
--   Morabito, E.\*, Jones-Bitton, A., **Kittisiam, T.**, Stacey, A., VanLeeuwen, J., Gunn McQuillan, H., Ritter, C. (2023, May 31 - June 1). Understanding meaningful work: conversations with early-career veterinarians across Canada.\[Oral Presentation\]. 16th Canadian Association of Veterinary Epidemiology and Preventive Medicine (CAVEPM) Conference 2023, Guelph, ON, Canada.
+**Kittisiam, T.\***, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones, A. (2024, Nov 11-15). “A Multitude of Emotions” in Veterinary Work: A Mixed-Methods Analysis of Emotional Intelligence and Experiences in Early-Career Veterinarians. \[Oral presentation\]. 17th International Symposium on Veterinary Epidemiology and Economics (ISVEE), Sydney, NSW, Australia.
 
--   **Kittisiam, T.\***, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones-Bitton, A. (2023, May 18). Quantifying well-being, emotional intelligence, and resilience in graduating veterinary students: findings from baseline data collection. \[Oral presentation\]. Centre for Public Health and Zoonoses (CPHAZ) Symposium 2023, Guelph, ON, Canada.
+**Kittisiam, T.**\*, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones-Bitton, A. (2023, May 31 - June 1). Measures of positive mental health in graduating veterinary students: findings from baseline data collection. \[Poster session\]. 16th Canadian Association of Veterinary Epidemiology and Preventive Medicine (CAVEPM) Conference 2023, Guelph, ON, Canada. [Link to conference proceedings](https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/6/356/files/2023/05/CAVEPM-2023-Conference-Proceedings.pdf)
 
--   **Kittisiam, T.\***, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones-Bitton, A. (2022, August 7-12). A longitudinal mixed-methods analysis of self-efficacy, emotional intelligence, and resilience in veterinary students transitioning into the veterinary profession. \[Poster session\]. 16th International Symposium of Veterinary Epidemiology and Economics (ISVEE), Halifax, NS, Canada. [Link to conference proceedings](https://venuewest-my.sharepoint.com/personal/congress_venuewest_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcongress%5Fvenuewest%5Fcom%2FDocuments%2FPublic%2FISVEE%202022%2FISVEE%2D2022%2DProceedings%2Epdf&parent=%2Fpersonal%2Fcongress%5Fvenuewest%5Fcom%2FDocuments%2FPublic%2FISVEE%202022&ga=1)
+Morabito, E.\*, Jones-Bitton, A., **Kittisiam, T.**, Stacey, A., VanLeeuwen, J., Gunn McQuillan, H., Ritter, C. (2023, May 31 - June 1). Understanding meaningful work: conversations with early-career veterinarians across Canada.\[Oral Presentation\]. 16th Canadian Association of Veterinary Epidemiology and Preventive Medicine (CAVEPM) Conference 2023, Guelph, ON, Canada.
 
--   Morabito, E.\*, Jones-Bitton, A., **Kittisiam, T.**, Stacey, A., VanLeeuwen, J., Gunn McQuillan, H., Ritter, C. (2022, August 7-12). Quantitative assessment of Eudaimonia and Hedonia as protective factors on veterinary mental health in a longitudinal, Canada-wide study.  \[Oral Presentation\]. 16th International Symposium of Veterinary Epidemiology and Economics (ISVEE), Halifax, NS, Canada.
+**Kittisiam, T.\***, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones-Bitton, A. (2023, May 18). Quantifying well-being, emotional intelligence, and resilience in graduating veterinary students: findings from baseline data collection. \[Oral presentation\]. Centre for Public Health and Zoonoses (CPHAZ) Symposium 2023, Guelph, ON, Canada.
 
--   Wanakumjorn, P., **Kittisiam, T.\***, Sukitmongkolkul, J., Rumnum, J., Aungchayakul, T., Witoonsatian, K., Lertwatcharasarakul, P., Phatthanakunanan, S., Jala, S. (2019, June 13-14). Development of Loop-Mediated Isothermal Amplification to Detect Duck Enteritis Virus \[Conference presentation\]. KUVIC 2019, Prachuap Khiri Khan, Thailand. [Link to conference proceedings](https://drive.google.com/file/d/1yZRHZO7-HAir8yJzq7p4NUmUjO7IO5Td/view)
+**Kittisiam, T.\***, Ritter, C., Morabito, E., Stacey, A., Khosa, D. & Jones-Bitton, A. (2022, August 7-12). A longitudinal mixed-methods analysis of self-efficacy, emotional intelligence, and resilience in veterinary students transitioning into the veterinary profession. \[Poster session\]. 16th International Symposium of Veterinary Epidemiology and Economics (ISVEE), Halifax, NS, Canada. [Link to conference proceedings](https://venuewest-my.sharepoint.com/personal/congress_venuewest_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcongress%5Fvenuewest%5Fcom%2FDocuments%2FPublic%2FISVEE%202022%2FISVEE%2D2022%2DProceedings%2Epdf&parent=%2Fpersonal%2Fcongress%5Fvenuewest%5Fcom%2FDocuments%2FPublic%2FISVEE%202022&ga=1)
+
+Morabito, E.\*, Jones-Bitton, A., **Kittisiam, T.**, Stacey, A., VanLeeuwen, J., Gunn McQuillan, H., Ritter, C. (2022, August 7-12). Quantitative assessment of Eudaimonia and Hedonia as protective factors on veterinary mental health in a longitudinal, Canada-wide study.  \[Oral Presentation\]. 16th International Symposium of Veterinary Epidemiology and Economics (ISVEE), Halifax, NS, Canada.
+
+Wanakumjorn, P., **Kittisiam, T.\***, Sukitmongkolkul, J., Rumnum, J., Aungchayakul, T., Witoonsatian, K., Lertwatcharasarakul, P., Phatthanakunanan, S., Jala, S. (2019, June 13-14). Development of Loop-Mediated Isothermal Amplification to Detect Duck Enteritis Virus \[Conference presentation\]. KUVIC 2019, Prachuap Khiri Khan, Thailand. [Link to conference proceedings](https://drive.google.com/file/d/1yZRHZO7-HAir8yJzq7p4NUmUjO7IO5Td/view)
 
 ## Training and Certification
 
 **Introduction to practical disease modeling**
 
-*Nov 2024*
-
-17th International Symposium on Veterinary Epidemiology and Economics
-
-Sydney, NSW, Australia
+> *Nov 2024*
+>
+> 17th International Symposium on Veterinary Epidemiology and Economics
+>
+> Sydney, NSW, Australia
 
 **Inclusive Teaching Workshop**
 
-*Mar 2024*
-
-Graduate Teaching Community, Office of Teaching and Learning (OTL),
-
-University of Guelph, Guelph, ON, Canada
+> *Mar 2024*
+>
+> Graduate Teaching Community, Office of Teaching and Learning (OTL),
+>
+> University of Guelph, Guelph, ON, Canada
 
 **safeTALK**
 
-*Oct 2023*
-
-Wellness Education & Promotion Centre, Student Wellness
-
-University of Guelph, Guelph, ON, Canada
+> *Oct 2023*
+>
+> Wellness Education & Promotion Centre, Student Wellness
+>
+> University of Guelph, Guelph, ON, Canada
 
 **Mental Health First Aid Standard (Blended) (9–hour)**
 
-*Oct 2022*
-
-Mental Health Commission of Canada
+> *Oct 2022*
+>
+> Mental Health Commission of Canada
 
 **Course on Research Ethics (TCPS 2: CORE) Certificate**
 
-*Oct 2021*
-
-Panel on Research Ethics, Government of Canada
+> *Oct 2021*
+>
+> Panel on Research Ethics, Government of Canada
 
 **Contact Network Epidemiology**
 
-*Jul 2021*
-
-13th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
-
-University of Washington, Seattle, WA, USA
+> *Jul 2021*
+>
+> 13th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
+>
+> University of Washington, Seattle, WA, USA
 
 **Spatial Statistics in Epidemiology and Public Health**
 
-*Jul 2021*
-
-13th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
-
-University of Washington, Seattle, WA, USA
+> *Jul 2021*
+>
+> 13th Summer Institute in Statistics and Modeling in Infectious Diseases (SISMID)
+>
+> University of Washington, Seattle, WA, USA
 
 ## Awards and scholarships
 
+**Trainee Award (Best Poster Presentation)**
+
+> *Jun 2025*
+>
+> Canadian Association of Veterinary Epidemiology and Preventive Medicine, Canada
+
+**Braithwaite Conference Travel Grant**
+
+> *Nov 2024*
+>
+> University of Guelph, Canada
+
 **17th International Symposium on Veterinary Epidemiology and Economics (ISVEE) Bursary**
 
-*2024*
+> *2024*
+>
+> 17th International Symposium on Veterinary Epidemiology and Economics (ISVEE) organizing committee, Sydney, NSW, Australia
 
-17th International Symposium on Veterinary Epidemiology and Economics (ISVEE), Sydney, NSW, Australia
+**International Doctoral Tuition Scholarship**
+
+> *2021 - 2025*
+>
+> University of Guelph, Canada
 
 **Canada-ASEAN Scholarships and Educational Exchanges for Development (SEED)**
 
-*2020 - 2021*
-
-Global Affairs Canada
+> *2020 - 2021*
+>
+> Global Affairs Canada
 
 **Best Oral Presentation (Student)**
 
-*Sep 2019*
-
-Kasetsart University Veterinary International Conference 2019 (KUVIC 2019), Thailand
+> *Sep 2019*
+>
+> Kasetsart University Veterinary International Conference 2019 (KUVIC 2019), Thailand
 
 **Student American Veterinary Medical Association (SAVMA) Symposium Student Travel Grant**
 
-*Mar 2018*
-
-Student American Veterinary Medical Association (SAVMA), PA, USA
+> *Mar 2018*
+>
+> Student American Veterinary Medical Association (SAVMA), PA, USA
