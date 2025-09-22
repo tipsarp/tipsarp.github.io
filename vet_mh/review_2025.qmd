@@ -1,0 +1,49 @@
+---
+title: "A Brief Review of Veterinarian Well-being in 2025"
+author: "Tipsarp Kittisiam"
+date: 2025-06-26
+---
+
+# Veterinarian Mental Well-being
+
+## A brief review in 2025
+
+In 1980, [Blair and Hayes](https://doi.org/10.1002/ijc.2910250203) discovered that veterinary professionals had higher suicide rates compared to the average population. Over 40 years and potentially hundreds of published studies later, *what have we learned*? And, more importantly, *where are we headed next*?
+
+## Adverse effects of being a veterinarian
+
+Firstly, we’ve learned the common *“adverse mental health outcomes”* associated with being a veterinary professional (*not unlike those of the drugs that vets prescribe to their patients*). Those include stress, anxiety, depression, and burnout, to name a few.
+
+We’ve learned that [suicide and suicidal ideation](https://doi.org/10.14202/vetworld.2023.1266-1276) remain prevalent in the profession, despite efforts from organizations such as [Not One More Vet (NOMV)](https://nomv.org/) and others. Though we believe the situation to have improved, we currently don’t have enough research to know whether that is true.
+
+We’ve also learned that these concerns exist in many countries around the world, as reported in, for example, [the US](https://doi.org/10.2460/javma.252.10.1231), [Canada](https://doi.org/10.2460/javma.256.3.365), [the UK](https://doi.org/10.1007/s00127-009-0030-8), [Australia](https://doi.org/10.1111/j.1751-0813.2011.00833.x), [New Zealand](https://doi.org/10.1080/00480169.2006.36623), and [the Netherlands](https://doi.org/10.1136/vr.101761). It’s important to highlight that the absence of reports in other countries does not mean the concerns do not exist, but that they were simply not reported.
+
+## Veterinarians’ poor mental health and well-being not only impact themselves…
+
+…but can also have perceived negative impacts on interactions with clients, teamwork, concentration, and decision-making, all of [which can decrease the quality of care that patients receive.](https://doi.org/10.3389/fvets.2023.1064932)
+
+From the employers’ perspective, the veterinarians’ poor mental health and well-being increase the chances of absenteeism, attrition, and turnover, which could present significant economic costs.
+
+[A study in 2022](https://doi.org/10.3389/fvets.2022.814104) estimated that the turnover and reduced working hours caused by burnout contributed to at least \$1 - 2 billion in lost revenue annually in the U.S.
+
+## … but why?
+
+These *“adverse mental health outcomes”* have been found to be tied to occupational stressors such as long work hours, poor work-life balance, professional mistakes, unexpected outcomes, and ethical dilemmas.
+
+Newer studies have shown that the leadership and team environment play a pivotal role in making these stressors better or worse. For example, [a focus group with veterinary technicians](https://doi.org/10.3389/fvets.2015.00078) revealed that teams with toxic work environments also came with excessive workload, leading to burnout and staff turnover.
+
+## Shifting away from the adverse outcomes
+
+While previous research has done a lot to uncover the concerns of mental health and well-being in the profession, there has been a collective shift to move away from that narrative.
+
+In 2017, [Cake](https://doi.org/10.3138/jvme.0116-025R) advocated for more research that focuses on the positive aspects of veterinary work (*which has always been eclipsed by the negatives in the past*). A lot of veterinarians (*myself included*) love the profession, despite all the adverse effects that may come with it.
+
+Pharmaceutical corporations innovate newer generations of drugs that become more effective while reducing the adverse effects. *What if we could do the same for the veterinary profession? What if we can shift the newer generation of veterinarians away from these adverse effects that have been identified?*
+
+## A more positive profession
+
+As mental wellness practices and [positive psychology](https://doi.org/10.3389/fvets.2024.1484412) become more mainstream, they have spilled over into veterinarian mental health as well. With more and more studies reporting on positive outcomes such as [resilience](https://doi.org/10.3138/jvme-2021-0133) and [positive functioning](https://doi.org/10.1007/s11259-024-10510-0).
+
+My team has also published research articles on [meaningful work](https://doi.org/10.3389/fvets.2025.1595949) and [emotional intelligence](https://doi.org/10.1002/vetr.5599).
+
+As we move forward, my hope is that we will see more research on the positive aspects of veterinary work and how we can make the profession more positive for everyone.

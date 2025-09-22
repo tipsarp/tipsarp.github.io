@@ -7,7 +7,15 @@ listing:
     fields: [title, date, categories]
 ---
 
-# My Contribution and Research
+## My Contribution and Research
+
+As an interdisciplinary researcher and veterinary epidemiologist, I am extremely fortunate to be able to contribute to improving the well-being of the veterinary profession and pursue my Ph.D. research at the same time. In June 2025, I started writing blog-style articles and collected them here as a way to break down findings from [my thesis](https://hdl.handle.net/10214/29012), into bite-sized chunks of information, in hopes of improving the accessibility of the research findings.
+
+## Veterinarian Mental Well-being in 2025
+
+> In 1980, [Blair and Hayes](https://doi.org/10.1002/ijc.2910250203) discovered that veterinary professionals had higher suicide rates compared to the average population. Over 40 years and potentially hundreds of published studies later, *what have we learned*? And, more importantly, *where are we headed next*?
+>
+> [*Continue reading...*](review_2025.qmd)
 
 ## Veterinary Feelings
 
@@ -15,7 +23,7 @@ listing:
 >
 > In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them about emotional experiences in their clinical practice as part of my doctoral thesis research, now published as the article, ["A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"](https://doi.org/10.1002/vetr.5599). This article below, summarizes the findings in a more digestible language.
 >
-> [Continue reading...](vet_feelings.qmd)
+> [*Continue reading...*](vet_feelings.qmd)
 
 # Relevant Publications
 
