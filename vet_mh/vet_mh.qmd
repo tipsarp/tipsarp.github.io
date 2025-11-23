@@ -8,7 +8,7 @@ listing:
 toc: true
 ---
 
-##  My Contribution and Research
+## My Contribution and Research
 
 As an interdisciplinary researcher and veterinary epidemiologist, I am extremely fortunate to be able to contribute to improving the well-being of the veterinary profession and pursue my Ph.D. research at the same time. In June 2025, I started writing blog-style articles and collected them here as a way to break down findings from [my thesis](https://hdl.handle.net/10214/29012), into bite-sized chunks of information, in hopes of improving the accessibility of the research findings.
 

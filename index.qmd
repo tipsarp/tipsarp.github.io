@@ -5,6 +5,9 @@ about:
   image: "images/IMG_6379.jpeg"
   image-shape: round
   links:
+    - icon: pass-fill
+      text: Curriculum Vitae
+      url:  "https://tipsarp.github.io/cv.html"
     - icon: linkedin
       text: LinkedIn
       url: "https://www.linkedin.com/in/tipsarp/"
