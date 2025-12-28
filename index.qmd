@@ -5,9 +5,6 @@ about:
   image: "images/IMG_6379.jpeg"
   image-shape: round
   links:
-    - icon: pass-fill
-      text: Curriculum Vitae
-      url:  "https://tipsarp.github.io/cv.html"
     - icon: linkedin
       text: LinkedIn
       url: "https://www.linkedin.com/in/tipsarp/"
@@ -25,17 +22,15 @@ about:
       url: "https://scholar.google.com/citations?user=JDq59c8AAAAJ&hl=en"
 ---
 
-## Bio
+# Bio
 
-I am an interdisciplinary researcher and veterinary epidemiologist with international experience, teaching expertise, and a proven ability to work in multicultural settings. During my D.V.M., I sought out opportunities to expand my horizons, which led me to provide outreach with the Veterinary Volunteer club and practice my leadership skills with the International Veterinary Students Association.\
-\
-As a dog person, I was delighted to research free-roaming dogs in Thailand for my M.Sc. in Veterinary Epidemiology, where I mastered (pun intended) advanced epidemiological and biostatistical methods such as Network Analysis.\
-\
-My lived experiences and research paths converged, encouraging me to pursue my Ph.D. research on improving mental well-being in veterinarians using a mix of quantitative and qualitative research methods. My doctoral research solidified my appreciation of qualitative research methods, such as using thematic analysis on transcribed interviews, which shed light on findings that may not be within the reach of quantitative methods.\
-\
-The wealth of knowledge that the past decade has brought me has inspired me to continue to broaden my horizons and welcome what future opportunities may arise.
+I am an interdisciplinary researcher and veterinary epidemiologist. My Masters' research applied Network Analysis to understand the potential rabies spread in a free-roaming dog population. During my Ph.D. my research focused on ways to improve mental well-being in veterinarians using a mix of quantitative and qualitative research methods.\
 
-## Education
+I currently work as a Research Fellow at [The Health Intervention and Technology Assessment Program (HITAP) Foundation](https://www.hitap.net/en/home/) in Nonthaburi, Thailand.
+
+------------------------------------------------------------------------
+
+# Education
 
 **Doctor of Philosophy (Ph.D.) in Epidemiology**
 

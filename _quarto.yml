@@ -10,9 +10,15 @@ website:
   navbar:
       left:
         - href: index.qmd
-          text: About Me
-        - text: "Veterinarian Well-being Research"
+          text: "About Me"
+          menu: 
+            - href: cv.qmd
+              text: "Curriculum Vitae"
+        - text: "My Publications"
+          href: publications.qmd
+        - text: "Veterinarian Well-being"
           href: vet_mh/vet_mh.qmd
+
 
 format:
   html:
